@@ -143,8 +143,8 @@ export default function Header(props){
         {name:'Users',link:'/users',activeIndex:1
         }, 
         {name:'Create User',link:'/create' ,activeIndex:2},
-        {name:'All Transcation',link:'/history',activeIndex:3},
-        {name:'About Me',link:'/about',activeIndex:4},
+        {name:'Transactions',link:'/history',activeIndex:3},
+        {name:'Testimonials',link:'/about',activeIndex:4},
         {name:'Contact Us',link:'/contact',activeIndex:5},
       
     ];

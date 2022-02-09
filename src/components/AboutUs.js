@@ -41,7 +41,7 @@ export default function AboutUs(props){
         <Grid container direction='column'>
             <Grid item className={classes.rowContainer} style={{marginTop:matchesMD ? '1em' : '1em'}}>
                 <Typography align='center' variant='h2'>
-                    About Me
+                Customer Testimonials
                 </Typography>
             </Grid>
             <Grid 
@@ -52,8 +52,9 @@ export default function AboutUs(props){
                 style={{marginTop:'3em'}}
             >
                 <Typography variant='h4' align='center' className={classes.missionStatement}>
-                I am 3rd year BTech Computer science student who is passionate about Web development.
-                I am looking for front end opportunities in reactjs.
+                AnyCompany Bank is very accommodating and receptive to our financial needs. 
+                AnyCompany differs from all other financial institutions due to its desire to build a personal relationship with their clients. 
+                I am continually impressed with all departments!
                 </Typography>
             </Grid>
             <Grid 
@@ -66,15 +67,15 @@ export default function AboutUs(props){
             >
                 <Grid item>
                    <Typography variant='h4' gutterBottom align="center">
-                       Team
+                   Heather Miller
                    </Typography>
                 </Grid>
                 <Grid item>
                     <Typography variant="body1" paragraph align="center">
-                        Ritik Jain, Founder
+                        Owner, Westhampton Architectural Glass
                     </Typography>
                     <Typography variant="body1" paragraph align="center">
-                        Web Developer
+                    Banking since 2002
                     </Typography>
                 </Grid>
                 <Grid item>

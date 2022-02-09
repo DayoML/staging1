@@ -207,7 +207,7 @@ export default function ContactUs(props){
                                 <a href ='tel:8602204936' 
                                     style={{textDecoration:'none',color:'inherit'}}
                                 >
-                                    (777) 777-7777
+                                    +1(236)-992-9844
                                 </a>
                                 </Typography>
                             </Grid>
@@ -229,7 +229,7 @@ export default function ContactUs(props){
                                 <a href ='mailto:ritikjain2727@gmail.com' 
                                     style={{textDecoration:'none',color:'inherit'}}
                                 >
-                                    reactjsdeveloper45@gmail.com
+                                    janssona@amazon.com
                                 </a>
                                 </Typography>
                             </Grid>
