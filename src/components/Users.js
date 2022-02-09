@@ -35,7 +35,7 @@ export default function Users() {
               <th>NAME</th>
               <th>EMAIL</th>
               <th>PHONE NO.</th>
-              <th>BALANCE(₹)</th>
+              <th>BALANCE($)</th>
             </tr>
           </thead>
           <tbody>
