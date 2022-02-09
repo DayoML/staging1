@@ -54,7 +54,7 @@ export default function LandingPage(props){
                     style={{fontFamily:'Pacifico' }}
                     align={matchesMD ? 'center' : undefined}
                 >
-                     Welcome to,RJ Bank
+                     Welcome to,AnyCompany Bank
                 </Typography>
             </Grid>
             <Grid 
@@ -150,3 +150,4 @@ export default function LandingPage(props){
     )
 
 }
+
